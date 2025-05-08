@@ -1,4 +1,4 @@
 # MeuPrimeiroProjeto
-## PRImeiRO COmmit (alterado na main)
+## Primeiro Commit (resolvido)
 
 ## Nova funcionalidade
