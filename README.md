@@ -1,4 +1,4 @@
 # MeuPrimeiroProjeto
-## pRIMEIRO cOMMIT (alterado na nova branch)
+## Primeiro Commit (resolvido)
 
 ## Nova funcionalidade
